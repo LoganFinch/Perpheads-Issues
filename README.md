@@ -1,3 +1,3 @@
 Perpheads-Issues
 ================
-Report bugs here
+Report bugs here  Gardening Pots are invis 
